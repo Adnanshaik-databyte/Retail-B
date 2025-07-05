@@ -48,6 +48,10 @@ The primary business questions addressed include:
 - Use bundling and discounts to clear overstock
 
   ![Screenshot (248)](https://github.com/user-attachments/assets/2db311d3-4c53-4442-817a-3d8a6ac941a3)
+  ![Screenshot (247)](https://github.com/user-attachments/assets/8d3de71a-9dae-4d19-a1ba-7666b8388b13)
+  ![Screenshot (249)](https://github.com/user-attachments/assets/16f6fcbf-59d6-4947-96a3-daa2026df308)
+  ![Screenshot (250)](https://github.com/user-attachments/assets/fcf86b97-e29c-4a19-a45c-abc644837f02)
+
 
 
 ## 📌 Author
